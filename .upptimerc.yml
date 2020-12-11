@@ -16,6 +16,8 @@ sites:
     url: $SECRET_SITE
 
 status-website:
+  # https://github.com/upptime/upptime/issues/107
+  publish: true
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
@@ -32,8 +34,3 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-
-
-# https://github.com/upptime/upptime/issues/107
-status-website:
-  publish: true
